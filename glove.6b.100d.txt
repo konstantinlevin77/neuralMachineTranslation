@@ -1,0 +1,4 @@
+PREVIEW FILE
+word vec
+word2 vec2
+word3 vec3
